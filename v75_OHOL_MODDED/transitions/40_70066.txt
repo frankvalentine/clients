@@ -1,0 +1,3 @@
+0 70067 0 0.000000 0.000000 0 0 0 1
+
+##wild carrot + shrine A one carrot = nothing + shrine A two carrots

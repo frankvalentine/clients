@@ -1,0 +1,3 @@
+0 70149 4 0.000000 0.000000 0 0 2 2
+
+##dromedary #hungry flees 2 tiles every 4 seconds

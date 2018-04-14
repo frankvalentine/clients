@@ -1,0 +1,3 @@
+70098 70079 0 0.000000 0.000000 0 0 0 1
+
+##empty hand + blessed shrine A with bridle = bridle + neglected shrine #A2

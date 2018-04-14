@@ -1,0 +1,3 @@
+0 70124 -2 0.000000 0.000000 0 0 0 1
+
+##unripe creamery + 2 epochs = ripe creamery

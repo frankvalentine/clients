@@ -1,0 +1,3 @@
+70096 70112 0 0.000000 0.000000 0 0 0 1
+
+##empty hand + hitched caravan dromedary #stopped = cargo crate + hitched dromedary

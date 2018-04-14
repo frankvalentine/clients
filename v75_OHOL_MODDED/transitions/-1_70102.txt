@@ -1,0 +1,3 @@
+0 70103 -1 0.000000 0.000000 0 0 0 1
+
+##silk farm + 1 epoch = mature silk farm

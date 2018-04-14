@@ -1,0 +1,3 @@
+70148 70120 0 0.000000 0.000000 0 0 0 1
+
+##empty hand + unripe creamery = unripe cheese wheel + empty creamery

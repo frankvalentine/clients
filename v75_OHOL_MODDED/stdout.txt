@@ -1,0 +1,251 @@
+shcore.dll loaded successfully
+Found SetProcessDpiAwareness function in shcore.dll
+Decompressing took 0.001000 seconds
+Loaded 842 tagged sprites from sprites folder
+Loaded 215 sound IDs from sounds folder
+Decompressing took 0.012000 seconds
+Loaded 692 animations from animations folder
+Finished loading animation bank in 0.399000 sec
+Decompressing took 0.008000 seconds
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 3.000000 5.000000 0.833333 (0.000000,0.000000) 0.000000 0.000000 3.000000 0.010417 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 3.000000 5.000000 0.833333 (0.000000,0.000000) 0.000000 0.000000 3.000000 0.010417 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 3.000000 5.000000 0.833333 (0.000000,0.000000) 0.000000 0.000000 3.000000 0.010417 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 3.000000 5.000000 0.833333 (0.000000,0.000000) 0.000000 0.000000 3.000000 0.010417 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 3.000000 5.000000 0.833333 (0.000000,0.000000) 0.000000 0.000000 3.000000 0.010417 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 3.000000 5.000000 0.833333 (0.000000,0.000000) 0.000000 0.000000 3.000000 0.010417 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Expected line name headIndex not found in line startPause=0.000000
+Expected line name bodyIndex not found in line animParam=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 (0.000000,0.000000) 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+Expected line name backFootIndex not found in line offset=(0.000000,0.000000)
+Expected line name frontFootIndex not found in line startPause=0.000000
+Expected line name useVanishIndex not found in line offset=(0.000000,0.000000)
+Expected line name useAppearIndex not found in line startPause=0.000000
+Object id 793 (The Apocalypse) seen as an apocalypse trigger
+Loaded 862 objects from objects folder
+  Auto-generated 330 'used' objects
+Finished loading object bank in 4.547000 sec
+Decompressing took -0.000000 seconds
+Loaded 21 categories from categories folder
+Finished loading category bank in 4.870000 sec
+Frame rate = 16.090105 frames/second
+Compressed 60516 bytes down to 14664
+Compressing took 0.004000 seconds
+Loaded 1110 transitions from transitions folder
+Auto-generated 397 transitions based on categories
+Auto-modified 151 transitions based generic use transitions and auto-added 0 last use generic transitions (7 objects had generic use transitions defined).
+Auto-generated 1503 transitions based on used objects, removing 172 transitions in the process
+Using custom server address: www.dying.world:8005
+Sending message to server: KA 0 0#
+Got length 14 message
+SN
+0/200
+9
+75
+
+Sending message to server: LOGIN test@testing.com                                                                 07B3953FE62AA0D002336844A42973B95627AAE2 39D521AE27B34CCA0FA9DBCB203BD15E1497262F#
+Got length 9 message
+ACCEPTED
+
+Got length 26 message
+MC
+32 30 -16 -15
+5945 402
+
+Got map chunk with bin size 5945, compressed size 402
+First chunk isn't too far from center, using 0,0 as our global offset
+Map center = 0,0
+Got length 78 message
+PU
+10 350 0 0 0 0 0 0 0 0 -1 0.07 1 0 0 0 14.00 60.00 3.75 0;0;0;0;0;0 0 0 -1
+
+PLAYER_UPDATE with heldOrVal=0, heldOrx=0, heldOry=0, pX=0, pY=0, heldTransSrcID=-1, holdingString=0
+Got first PLAYER_UPDATE message, our ID = 10
+Got length 6 message
+LN
+10
+
+First map load done
+Starting music at age 14.006483
+Frame rate = 15.649452 frames/second
+Got length 57 message
+MX
+1 -12 0 50 -1
+15 4 0 50 -1
+-15 7 0 50 -1
+-6 8 0 51 -1
+
+Got length 21 message
+FX
+18 18 0 0 3.75 -1
+
+Our food = 18/18
+Frame rate = 62.460959 frames/second
+Frame rate = 62.421973 frames/second
+Total received = 620 bytes (+364 in headers), total sent = 176 bytes (+104 in headers)

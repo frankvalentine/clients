@@ -1,0 +1,3 @@
+0 70123 -2 0.000000 0.000000 0 0 0 1
+
+##cultured creamery + 2 epochs = unripe creamery

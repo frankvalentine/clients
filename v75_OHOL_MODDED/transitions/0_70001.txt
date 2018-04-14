@@ -1,0 +1,3 @@
+70000 70000 0 0.000000 0.000000 0 0 0 1
+
+##empty hand + Gold Coins (2) = Single Gold Coin + Single Gold Coin

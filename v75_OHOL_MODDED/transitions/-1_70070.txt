@@ -1,0 +1,3 @@
+0 70078 -1 0.000000 0.000000 0 0 0 1
+
+##blessed shrine A gold coins + 1 epoch = blessed gold shrine with cocoons

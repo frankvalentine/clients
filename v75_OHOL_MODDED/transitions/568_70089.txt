@@ -1,0 +1,3 @@
+568 70086 0 0.000000 0.000000 0 0 0 1
+
+##shears + tent wall corner = shears + white rolled silk
