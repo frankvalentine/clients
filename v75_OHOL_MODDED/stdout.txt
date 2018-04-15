@@ -4,37 +4,145 @@ Loaded 0 tagged overlays from overlays folder
 Loaded 215 sound IDs from sounds folder
 Decompressing took 0.001000 seconds
 Loaded 842 tagged sprites from sprites folder
-Finished loading Sprite bank in 0.332000 sec
-Decompressing took 0.013000 seconds
+Finished loading Sprite bank in 0.331000 sec
+Decompressing took 0.012000 seconds
 Loaded 692 animations from animations folder
 Finished loading animation bank in 0.395000 sec
-Compressed 1495651 bytes down to 61865
-Compressing took 0.037000 seconds
+Decompressing took 0.007000 seconds
 Loaded 832 objects from objects folder
-Finished loading object bank in 0.514000 sec
-Decompressing took -0.000000 seconds
-Loaded 21 categories from categories folder
-Finished loading category bank in 0.321000 sec
+Finished loading object bank in 0.356000 sec
 Decompressing took 0.000000 seconds
-Frame rate = 33.898305 frames/second
+Loaded 21 categories from categories folder
+Finished loading category bank in 0.320000 sec
+Decompressing took 0.000000 seconds
+Frame rate = 34.843207 frames/second
 Loaded 1111 transitions from transitions folder
-Frame rate = 44.883305 frames/second
-Parsing dictionary file of 122819 words took 30.999969 ms
-Frame rate = 61.652282 frames/second
-Frame rate = 62.383035 frames/second
-Frame rate = 62.578221 frames/second
+Frame rate = 44.923628 frames/second
+Parsing dictionary file of 122819 words took 33.000061 ms
+Frame rate = 61.538462 frames/second
+Frame rate = 62.460959 frames/second
 Frame rate = 62.421973 frames/second
-Frame rate = 62.383025 frames/second
-Frame rate = 62.539088 frames/second
-Frame rate = 62.460968 frames/second
-Frame rate = 62.539088 frames/second
+Frame rate = 62.578230 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.500004 frames/second
 Frame rate = 62.499994 frames/second
 Frame rate = 62.500004 frames/second
 Frame rate = 62.460959 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.539078 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.578221 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.383035 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.383035 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.539078 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 61.462811 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.227749 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.539078 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.421973 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 59.952039 frames/second
 Frame rate = 62.460959 frames/second
 Frame rate = 62.539088 frames/second
 Frame rate = 62.421973 frames/second
-Frame rate = 17.969452 frames/second
-Frame rate = 8.528785 frames/second
-Frame rate = 8.508466 frames/second
-Frame rate = 3.586543 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.460959 frames/second
+Frame rate = 62.305295 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.539078 frames/second
+Frame rate = 62.266503 frames/second
+Frame rate = 62.500004 frames/second
+Frame rate = 62.539088 frames/second
+Frame rate = 62.499994 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.344136 frames/second
+Frame rate = 62.578221 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.539078 frames/second
+Frame rate = 62.460968 frames/second
+Frame rate = 62.499994 frames/second
