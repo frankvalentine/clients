@@ -1,0 +1,3 @@
+0 80863 300 0.000000 0.000000 0 0 0 1
+
+##stage three hops into fruiting stage 300 seconds (20 mins)

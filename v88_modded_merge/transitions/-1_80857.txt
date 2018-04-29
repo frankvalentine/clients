@@ -1,0 +1,3 @@
+0 80858 300 0.000000 0.000000 0 0 0 1
+
+##hops stage one into stage two at 300 seconds (10 mins now)

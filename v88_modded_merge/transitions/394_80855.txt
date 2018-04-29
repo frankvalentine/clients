@@ -1,0 +1,3 @@
+394 80854 0 0.000000 0.000000 0 0 0 1
+
+## category water source + dry planted hops = water source + wet planted hops

@@ -1,0 +1,278 @@
+writeFailed "ERROR:  GAME FOLDER IS READ-ONLY"
+
+
+measuringFPS "MEASURING MAXIMUM FRAMERATE"
+
+vsyncWarning "WARNING: VERTICAL SYNC DISABLED"
+vsyncWarning2 "(VISUAL TEARING LIKELY)"
+
+vsyncWarning3 "GRAPHICS CARD CONTROL PANEL CAN FIX THIS"
+
+vsyncContinueMessage "PRESS Y TO CONTINUE WITHOUT VSYNC OR ESC TO QUIT"
+
+
+fpsErrorLogin "ERROR:  FPS MISMATCH DETECTED.  VSYNC CHANGED?"
+
+
+
+loading "LOADING"
+
+sprites "SPRITES"
+objects "OBJECTS"
+transitions "TRANSITIONS"
+animations "ANIMATIONS"
+categories "CATEGORIES"
+
+groundTextures "GROUND TEXTURES"
+
+
+spritesRebuild "SPRITES##(REBUILDING CACHE)"
+objectsRebuild "OBJECTS##(REBUILDING CACHE)"
+transitionsRebuild "TRANSITIONS##(REBUILDING CACHE)"
+animationsRebuild "ANIMATIONS##(REBUILDING CACHE)"
+categoriesRebuild "CATEGORIES##(REBUILDING CACHE)"
+
+
+
+
+email "EMAIL"
+atSignTip "INSERT '@' SIGN (INTL KEYBOARDS)"
+
+
+loginButton "LOGIN"
+loginNoSaveButton "TEMP LOGIN"
+settingsButton "SETTINGS"
+postReviewButton "POST REVIEW"
+updateReviewButton "UPDATE REVIEW"
+
+reviewText "REVIEW TEXT"
+reviewName "DISPLAY NAME"
+
+recommend "RECOMMEND"
+recommendYes "YES"
+recommendNo "NO"
+
+postButton "POST"
+postReviewTip "POST TO ONEHOURONELIFE.COM"
+
+updateButton "UPDATE"
+updateReviewTip "UPDATE ON ONEHOURONELIFE.COM"
+
+removeButton "REMOVE"
+removeReviewTip "REMOVE FROM ONEHOURONELIFE.COM"
+
+
+copyReviewTip "COPY REVIEW TEXT TO CLIPBOARD"
+copySelectionTip "COPY SELECTION TO CLIPBOARD"
+
+spellCheck "CHECK SPELLING"
+
+requestDenied "POST REQUEST DENIED"
+
+reviewPosted "REVIEW HAS BEEN POSTED"
+reviewUpdated "REVIEW HAS BEEN UPDATED"
+reviewRemoved "REVIEW HAS BEEN REMOVED"
+
+
+
+saveTip "LOGIN AND STORE DETAILS LOCALLY"
+noSaveTip "DO NOT STORE DETAILS LOCALLY"
+
+
+accountKey "KEY"
+paste "PASTE"
+copy "COPY"
+clear "CLEAR"
+
+charLimit "5000 CHARACTER LIMIT REACHED"
+
+
+
+backButton "BACK"
+restartButton "RESTART"
+fullscreen "FULLSCREEN:"
+musicLoudness "MUSIC LOUDNESS:"
+soundLoudness "SOUND LOUDNESS:"
+
+currentFPS "CURRENT FRAME RATE:"
+targetFPS "TARGET FRAME RATE:"
+vsyncOn "USING VSYNC:"
+vsyncYes "YES"
+vsyncNo "NO"
+redetectButton "RE-DETECT"
+
+
+downloadingUpdate "DOWNLOADING UPDATE"
+applyingUpdate "APPLYING UPDATE"
+
+serverShutdownMessage "THE SERVERS HAVE BEEN##SHUT DOWN FOR MAINTENANCE.##PLEASE TRY AGAIN LATER."
+
+upgradeMessage "PLEASE DOWNLOAD##THE LATEST VERSION"
+
+updateWritePermissionMessage "FAILED TO APPLY UPDATE:##MOVE GAME FOLDER SOMEWHERE##THAT IS NOT READ-ONLY."
+
+manualRestartMessage "RESTART GAME TO APPLY UPDATE"
+
+
+loginFailed "LOGIN FAILED"
+
+versionMismatch "VERSION MISMATCH:  CLIENT %d -- SERVER %d"
+disableCustomServer "DISABLE CUSTOM SERVER"
+
+
+serverShutdown "SERVER HAS BEEN SHUT DOWN"
+
+serverFull "SERVER IS FULL"
+
+
+waitingBirth "WAITING TO BE BORN"
+
+loadingMap "LOADING MAP"
+
+
+lastAte "ATE"
+lastAtePermanent "ATE FROM"
+
+breastMilk "DRANK BREAST MILK"
+
+you "YOU"
+eat "EAT"
+
+
+eatHint "MOUTH"
+bareHandHint "BARE HAND"
+bareGroundHint "BARE GROUND"
+nothingHint "NOTHING"
+eventuallyHint "(EVENTUALLY)"
+
+
+noHint "NO INFORMATION" 
+
+ofHint "OF"
+tabHint "[TAB]"
+
+
+your "YOUR"
+
+mother "MOTHER"
+son "SON"
+daughter "DAUGHTER"
+grand "GRAND"
+great "GREAT "
+
+brother "BROTHER"
+sister "SISTER"
+
+aunt "AUNT"
+uncle "UNCLE"
+
+niece "NIECE"
+nephew "NEPHEW"
+
+cousin "COUSIN"
+
+1th "FIRST"
+2th "SECOND"
+3th "THIRD"
+4th "FOURTH"
+5th "FIFTH"
+6th "SIXTH"
+7th "SEVENTH"
+8th "EIGTH"
+9th "NINTH"
+10th "TENTH"
+11th "ELEVENTH"
+12th "TWELFTH"
+13th "THIRTEENTH"
+14th "FOURTEENTH"
+15th "FIFTEENTH"
+16th "SIXTEENTH"
+17th "SEVENTEENTH"
+18th "EIGHTEENTH"
+19th "NINETEENTH"
+20th "TWENTIETH"
+twenty "TWENTY-"
+
+distant "DISTANT"
+
+removed "REMOVED"
+1Times "ONCE"
+2Times "TWICE"
+3Times "THRICE"
+4Times "FOUR TIMES"
+5Times "FIVE TIMES"
+6Times "SIX TIMES"
+7Times "SEVEN TIMES"
+8Times "EIGHT TIMES"
+9Times "NINE TIMES"
+manyTimes "MANY TIMES"
+
+
+unrelated "NO RELATION"
+
+
+
+youDied "YOU DIED"
+
+deathAgeOne "AGE:  1 YEAR"
+deathAge "AGE:  %d YEARS"
+
+reasonDisconnected "CAUSE:  CONNECTION LOST"
+
+reasonHunger "CAUSE:  STARVATION"
+
+reasonNursingHunger "CAUSE:  NURSING STARVATION"
+
+reasonKilled "CAUSE:  KILLED BY "
+
+reasonKilledUnknown "CAUSE:  KILLED BY UNKNOWN WEAPON"
+
+reasonOldAge "CAUSE:  OLD AGE"
+
+reasonUnknown "CAUSE:  UNKNOWN"
+
+reasonApocalypse "CAUSE:  THE APOCALYPSE"
+
+
+okay "OK"
+quit "QUIT"
+
+reborn "GET REBORN"
+
+
+
+
+pauseMessage1 "REALLY QUIT?"
+
+pauseMessage2 "PRESS [ENTER] TO RESUME"
+
+
+pauseMessage3 "PRESS [%] TO QUIT"
+pauseMessage3b "YOU CAN'T QUIT NOW"
+
+pauseMessage4 "-"
+
+
+
+quitMessage "[ESC] TO QUIT"
+
+
+
+playbackTag           "PLAYBACK %:"
+playbackToggleMessage "(PRESS [%] TO HIDE)"
+playbackEndMessage    "(PRESS [ESC] TO END)"
+
+
+enterDemoCode  "Enter a demo code:"
+checkingCode  "Checking demo permissions with server..."
+
+
+
+responseWarning "CANNOT REACH SERVER.##ATTEMPTING RETRY %d"
+
+
+err_webRequest   "ERROR:  WEB REQUEST FAILED."
+err_codeFailed  "This demo code was denied by the server."
+err_serverVerifyFailed  "Response from the server##could not be authenticated."
+
+err_badServerResponse  "ERROR:  UNEXPECTED##RESPONSE FROM SERVER"

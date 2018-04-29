@@ -1,0 +1,3 @@
+80910 80913 0 0.000000 0.000000 0 0 0 1
+
+##empty hand + triple domestic hive = bee box + double domestic hive

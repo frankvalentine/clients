@@ -1,0 +1,3 @@
+80938 80916 0 0.000000 0.000000 0 0 0 1
+
+##harvesting a double domestic hive with 2 honey = double domestic hive with one honey + honeycomb

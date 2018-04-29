@@ -1,0 +1,3 @@
+0 70113 0 0.000000 0.000000 0 0 0 1
+
+##fixing bridle dupe bug, now you can only saddle hitched camels

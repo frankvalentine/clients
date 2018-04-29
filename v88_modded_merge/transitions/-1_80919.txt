@@ -1,0 +1,3 @@
+0 80937 600 0.000000 0.000000 0 0 0 1
+
+##every 10 minutes a triple domestic hive with 2 honey spawns a bee

@@ -1,0 +1,3 @@
+80960 80890 0 0.000000 0.000000 0 0 0 1
+
+##open hand + glass tube mold with glass = glass tube + empty tube mold

@@ -1,0 +1,3 @@
+441 80873 0 0.000000 0.000000 0 0 0 1
+
+##smithing hammer + pile of distillery components = smithing hammer + empty distillery
