@@ -1,0 +1,20 @@
+X:\Temporary Storage\OholCompass\OholCompass\bin\Debug\OholCompass.exe.config
+X:\Temporary Storage\OholCompass\OholCompass\bin\Debug\OholCompass.exe
+X:\Temporary Storage\OholCompass\OholCompass\bin\Debug\OholCompass.pdb
+X:\Temporary Storage\OholCompass\OholCompass\obj\Debug\OholCompass.csprojResolveAssemblyReference.cache
+X:\Temporary Storage\OholCompass\OholCompass\obj\Debug\OholCompass.FormMain.resources
+X:\Temporary Storage\OholCompass\OholCompass\obj\Debug\OholCompass.Properties.Resources.resources
+X:\Temporary Storage\OholCompass\OholCompass\obj\Debug\OholCompass.csproj.GenerateResource.Cache
+X:\Temporary Storage\OholCompass\OholCompass\obj\Debug\OholCompass.csproj.CoreCompileInputs.cache
+X:\Temporary Storage\OholCompass\OholCompass\obj\Debug\OholCompass.exe
+X:\Temporary Storage\OholCompass\OholCompass\obj\Debug\OholCompass.pdb
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\bin\Debug\OholCompass.exe.config
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\bin\Debug\OholCompass.exe
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\bin\Debug\OholCompass.pdb
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\obj\Debug\OholCompass.csprojResolveAssemblyReference.cache
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\obj\Debug\OholCompass.FormMain.resources
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\obj\Debug\OholCompass.Properties.Resources.resources
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\obj\Debug\OholCompass.csproj.GenerateResource.Cache
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\obj\Debug\OholCompass.csproj.CoreCompileInputs.cache
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\obj\Debug\OholCompass.exe
+C:\Users\sammo\Documents\GitHub\clients\v88_modded_merge\OholCompass\OholCompass\obj\Debug\OholCompass.pdb
