@@ -1,0 +1,3 @@
+0 86630 -1 0.000000 0.000000 0 0 0 1 0 0
+
+##eggless hen to male egg in 1 epoch

@@ -1,3 +1,0 @@
-0 780 3 0.000000 0.000000 0 0 0 1
-
-##escaped horse-drawn cart no longer flees

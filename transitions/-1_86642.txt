@@ -1,0 +1,3 @@
+0 86245 -2 0.000000 0.000000 0 0 0 1 0 0
+
+##holstered 2HOL swords become a holstered copper sword in 2 hours

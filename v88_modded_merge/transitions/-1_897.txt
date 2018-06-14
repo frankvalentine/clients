@@ -1,3 +1,0 @@
-0 895 -20 0.000000 0.000000 0 0 0 1
-
-##20 epochs for ancient stone wall vertical

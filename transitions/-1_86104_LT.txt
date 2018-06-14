@@ -1,0 +1,3 @@
+0 86105 3 0.000000 0.000000 0 0 3 3 0 0
+
+##wild male becomes wild female bull on last use

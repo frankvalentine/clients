@@ -1,0 +1,3 @@
+0 661 -24 0.000000 0.000000 0 0 0 1
+
+##cursed shrines revert to stone piles in 24 epochs

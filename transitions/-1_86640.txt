@@ -1,0 +1,3 @@
+0 86246 -2 0.000000 0.000000 0 0 0 1 0 0
+
+##2HOL swords become regular swords after 2 hours
