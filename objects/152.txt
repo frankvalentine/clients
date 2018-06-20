@@ -1,7 +1,7 @@
 id=152
 Bow and Arrow
 containable=0
-containSize=1,vertSlotRot=0.000000
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=10
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -19,12 +19,13 @@ speedMult=1.000000
 heldOffset=-3.000000,-4.000000
 clothing=n
 clothingOffset=0.000000,0.000000
-deadlyDistance=3
+deadlyDistance=0
 useDistance=5
 sounds=191:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=7
 spriteID=418
 pos=2.000000,-20.000000
@@ -86,7 +87,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=0

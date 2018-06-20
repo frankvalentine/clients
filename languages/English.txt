@@ -138,9 +138,6 @@ breastMilk "DRANK BREAST MILK"
 you "YOU"
 eat "EAT"
 
-yum "YUM"
-meh "MEH"
-
 
 eatHint "MOUTH"
 bareHandHint "BARE HAND"
