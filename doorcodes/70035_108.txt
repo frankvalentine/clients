@@ -1,3 +1,0 @@
-107 70043 0 0.000000 0.000000 0 0 0 1
-
-##pine door 72 + east-west wall stakes = stakes + pine door #72 installed 

@@ -1,3 +1,0 @@
-723 86180 0 0.000000 0.000000 0 0 0 1 0 0
-
-##fix for rough cutter on dead mammoth
