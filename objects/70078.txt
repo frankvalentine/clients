@@ -1,7 +1,7 @@
 id=70078
 Blessed Shrine #A with cocoon
 containable=0
-containSize=1,vertSlotRot=-0.195000
+containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
@@ -24,7 +24,8 @@ useDistance=1
 sounds=890:0.250000,890:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
+slotsLocked=0
 numSprites=16
 spriteID=144
 pos=0.000000,-31.000000
@@ -150,7 +151,7 @@ spriteID=61123
 pos=1.000000,-45.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.859155,0.859155,0.859155
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -158,7 +159,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1
+numUses=1,1.000000
 useVanishIndex=1,2,3,4,5,6,7,8,10
 useAppearIndex=-1
 pixHeight=71

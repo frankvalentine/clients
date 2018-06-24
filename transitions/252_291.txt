@@ -1,3 +1,1 @@
-252 70150 0 0.000000 0.000000 0 0 0 1
-
-##bowl of dough + flat rock = bowl of dough + dough on flat rock
+252 1286 0 0.000000 0.000000 0 0 0 1 0 0
