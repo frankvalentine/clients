@@ -1,4 +1,5 @@
-For more information, join our Discord - discord.gg/atEgxm7
+For more information, email jasonrohrer@fastmail.fm
+
 
 ==CONTROLS==
 

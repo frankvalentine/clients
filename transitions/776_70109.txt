@@ -1,0 +1,3 @@
+0 70110 0 0.000000 0.000000 0 0 0 1
+
+##sheepskin saddle + caravan dromedary #stopped = caravan dromedary #riding
